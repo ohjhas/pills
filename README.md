@@ -5,5 +5,5 @@ Add this to your pacman.conf file, specially right above the main repos:
 ```
 [pills]
 SigLevel = Optional TrustAll
-Server = https://ohjhas.github.io/pills/$arch
+Server = https://omega-linux.github.io/pills/$arch
 ```
